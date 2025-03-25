@@ -22,4 +22,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 ![image](https://github.com/user-attachments/assets/367d5abc-4d7e-45a0-99e0-15218007d23b)
 
+![image](https://github.com/user-attachments/assets/56f548f6-904f-4bde-b13e-f919a8a2a959)
+
+
 
